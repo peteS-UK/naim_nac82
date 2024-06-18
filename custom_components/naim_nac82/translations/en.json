@@ -1,0 +1,18 @@
+{
+  "title": "Naim NAC 82",
+    "config": {
+      "error": {
+        "data": "Enter a name for your NAC 82",
+        "select": "You must either discover or enter details manually"
+      },
+      "step": {
+        "user": {
+          "data": {
+            "name": "Name of the Naim NAC 82"
+          },
+          "description": "Enter the name for your NAC 82",
+          "title": "Naim NAC 82"
+        }
+      }
+    }
+  }
